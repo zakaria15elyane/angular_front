@@ -1,0 +1,22 @@
+{
+  "commandes": [
+    {
+      "id": 1,
+      "name": "sabler",
+      "poids": "5kg",
+      "prix": "10dh"
+    },
+    {
+      "id": 2,
+      "name": "slou",
+      "poids": "2kg",
+      "prix": "200dh"
+    },
+    {
+      "id": 4,
+      "name": "chabakia",
+      "poids": "1/2kg",
+      "prix": "150DH"
+    }
+  ]
+}
